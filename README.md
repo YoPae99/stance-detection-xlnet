@@ -4,14 +4,12 @@ This project is a stance detection system that uses XLNet to classify the stance
 
 ## 📁 Project Structure
 StanceDetection/
-│
 ├── Data/
 │ ├── train_stances.csv
 │ └── train_bodies.csv
-│
 ├── train.py
 ├── evaluate.py
-├── requirement.txt
+├── requirements.txt
 └── README.md
 
 ---
@@ -25,3 +23,4 @@ In your Google Colab notebook or local machine:
 ```bash
 !git clone https://github.com/your-username/StanceDetection.git
 %cd StanceDetection
+
